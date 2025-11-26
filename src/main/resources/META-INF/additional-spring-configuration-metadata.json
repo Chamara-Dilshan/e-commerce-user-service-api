@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "public.key.string",
+    "type": "java.lang.String",
+    "description": "A description for 'public.key.string'"
+  },
+  {
+    "name": "keycloak.config.server-url",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.config.server-url'"
+  },
+  {
+    "name": "keycloak.config.realm",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.config.realm'"
+  },
+  {
+    "name": "keycloak.config.password",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.config.password'"
+  },
+  {
+    "name": "keycloak.config.grant-type",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloak.config.grant-type'"
+  }
+]}
